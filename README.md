@@ -1,27 +1,8 @@
-# ts-library-starter
-[![NPM version](https://img.shields.io/npm/v/ts-library-starter.svg)](https://www.npmjs.com/package/ts-library-starter)
-[![Build Status](https://travis-ci.org/DxCx/ts-library-starter.svg?branch=master)](https://travis-ci.org/DxCx/ts-library-starter)
-[![Coverage Status](https://coveralls.io/repos/github/DxCx/ts-library-starter/badge.svg?branch=master)](https://coveralls.io/github/DxCx/ts-library-starter?branch=master)
+# resource-id
+[![NPM version](https://img.shields.io/npm/v/resource-id.svg)](https://www.npmjs.com/package/resource-id)
+[![Build Status](https://travis-ci.org/onirashu/resource-id.svg?branch=master)](https://travis-ci.org/onirashu/resource-id)
+[![Coverage Status](https://coveralls.io/repos/github/onirashu/resource-id/badge.svg?branch=master)](https://coveralls.io/github/onirashu/resource-id?branch=master)
 [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg)](https://github.com/conventional-changelog/standard-version)
-
-Example git project that is used for typescript libraries as a starter pack
-
-What does it include:
-----
-    1. exported class as example for an npm moudle
-    2. packaging for npm modules (webpack + tslint + awesome-typescript-loader + dts-bundle)
-    3. testings for npm modules (jest)
-    4. code coverage (jest) when running tests
-    5. Typescript => ES5
-    6. Two versions embed in the package, one for node, one for browser (browserify)
-
-Notes
-----
-Please note that you will need to rename the library name in some files:
-
-    1. webpack.config.js (bundle_opts)
-    2. package.json (ofcourse ;))
-Also don't forget to reset package version ;)
 
 Useful commands:
 ----
